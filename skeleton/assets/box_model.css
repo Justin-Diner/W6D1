@@ -72,3 +72,32 @@ h2 + .user_review {
     border-top: 1px solid black;
 }
 
+nav {
+	display: inline-block; 
+}
+
+li {
+	display: inline
+}
+
+a {
+	display: inline-block;
+	padding: 20px;
+}
+
+body {
+	width: 900px;
+	margin: 0 auto;
+}
+
+section {
+	width: 700px; 
+	display: inline-block;
+	border: solid 1px red;
+}
+
+aside {
+	width: 180px;
+	display: inline-block;
+	border: solid 1px red;
+}
